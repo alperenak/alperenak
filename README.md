@@ -29,4 +29,4 @@
 <!-- <p style='display:flex;align-items-center;justify-content-center;width:100%'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenak&theme=radical" alt="alperenak" /></p> -->
 <div style='display: flex; align-items: center; justify-content: center; width:100%'><img src="https://github-readme-streak-stats.herokuapp.com/?user=alperenak&theme=radical" alt="alperenak" /></div>
 
-<div style='display: flex; align-items:center; justify-content:center; width:20px; height: 20px; background:red'>
+<p style='display: flex; align-items:center; justify-content:center; width:20px; height: 20px; background:red'>
