@@ -1,27 +1,33 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=alperenak&label=Profile%20views&color=0e75b6&style=flat" alt="alperenak" /> 
 </p>
-<p align="center">
-    <img src="https://data.whicdn.com/images/36281433/original.gif" width="1000"  />
-</p>
-<p align="left">
-        <img src="https://github-profile-trophy.vercel.app/?username=alperenak&theme=onedark&rank=S,AAA'" alt="alperenak" />
-</p>
-
-<p align="left"> 
-    <img src="https://img.shields.io/twitter/follow/alperenkaraguz?logo=twitter&style=for-the-badge" alt="alperenkaraguz" />
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/alperenkaraguzel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="alperenkaraguzel" height="30" width="40" /></a>
-<a href="https://twitter.com/alperenkaraguz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alperenkaraguz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alperenak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alperenak" height="30" width="40" /></a>
-<a href="https://codesandbox.com/alperenak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="alperenak" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100006097156897" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006097156897" height="30" width="40" /></a>
-<a href="https://instagram.com/alperenkaraguz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alperenkaraguz" height="30" width="40" /></a>
-<a href="https://medium.com/@alperenkaraguzel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@alperenkaraguzel" height="30" width="40" /></a>
-<a href="https://discord.gg/alperenk#1969" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="alperenk#1969" height="30" width="40" /></a>
+<p align="center"> 
+    <a href="mailto:alperenkaraguzel@gmail.com?subject=Write something...">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="styled"/>
+    </a>
+     <a href="https://discord.gg/m54EHgjk">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="styled"/>
+    </a>
+     <a href="https://join.slack.com/t/newworkspace-c2i8013/shared_invite/zt-nx89d6ae-0Osf2mhcA39YoSwSQFb~ZA">
+        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="styled"/>
+    </a>
+     <a href="https://www.instagram.com/alperenkaraguz/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="styled"/>
+    </a>
+    <a href="https://twitter.com/alperenkaraguz">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="styled"/>
+    </a>
+    <a href="https://www.linkedin.com/in/alperenak/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="styled"/>
+    </a>
+    <a href="https://t.me/joinchat/VBeUgswuaCo3ZTFk">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="styled"/>
+    </a>
+    <a href="https://chat.whatsapp.com/FC2u8LRBxbMDnefGPtae2Yk">
+        <img src="	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="styled"/>
+    </a>
+    
+    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,7 +54,7 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="styled"/>
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="styled"/>
     <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="styled"/>
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="styled"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="styled"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="styled"/>
 
  </p>
