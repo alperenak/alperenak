@@ -1,9 +1,9 @@
-## 👋 Hi There !
+<h1 align="center">👋 Hi there ! I'm Alperen Karagüzel</h1>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=alperenak&label=Profile%20views&color=0e75b6&style=flat" alt="alperenak" /> 
+ <img src="https://komarev.com/ghpvc/?username=alperenak&label=Profile%20views&color=0e75b6&style=flat" alt="alperenak" /> 
 </p>
-
+<h2 align="center">&#11167; Connect with me &#11167;</h2>
 <p align="center"> 
     <a href="mailto:alperenkaraguzel@gmail.com?subject=Write something...">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="styled"/>
@@ -30,8 +30,7 @@
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="styled"/>
     </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">&#11167; Languages and Tools &#11167;</h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
