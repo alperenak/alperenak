@@ -1,9 +1,11 @@
-<h1 align="center">👋 Hi there ! I'm Alperen Karagüzel</h1>
-
-<p align="center">
+ <p align="center">
  <img src="https://komarev.com/ghpvc/?username=alperenak&label=Profile%20views&color=0e75b6&style=flat" alt="alperenak" /> 
 </p>
+
+<h1 align="center">👋 Hi there ! I'm Alperen Karagüzel</h1>
+
 <h2 align="center">&#11167; Connect with me &#11167;</h2>
+
 <p align="center"> 
     <a href="mailto:alperenkaraguzel@gmail.com?subject=Write something...">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="styled"/>
