@@ -1,5 +1,5 @@
  <p align="center">
- <img src="https://komarev.com/ghpvc/?username=alperenak&label=Profile%20views&color=0e75b6&style=flat" alt="alperenak" /> 
+ <img src="https://komarev.com/ghpvc/?username=alperenak&label=Profileviews&color=0e75b6&style=flat" alt="alperenak" /> 
 </p>
 
 <h1 align="center">👋 Hi there ! I'm Alperen Karagüzel</h1>
